@@ -1,0 +1,28 @@
+profile:
+  firstname: Vinicius
+  lastname: Alves
+  jobTitle: FullStack Engineer
+
+repos:
+  - name: Gitfolio
+    url: git@github.com:alvesvin/gitfolio.git
+    description: Turn your Git projects into your portfolio effortlessly
+
+works:
+  - role: Mid-level FullStack Engineer
+    company:
+      name: Eos Loan
+    startDate: 2023-01-01
+
+  - role: Mid-level FullStack Engineer
+    company:
+      name: QuikDev
+    startDate: 2022-05-01
+
+skills:
+  - TypeScript
+  - Next.js
+  - Node
+  - Serverless
+  - SQL
+  - FullStack
